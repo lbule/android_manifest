@@ -16,7 +16,7 @@
            revision="11" />
 
   <remote  name="lineage"
-           fetch="https://mirrors.cernet.edu.cn/lineageOS/"
+           fetch="https://mirrors.bfsu.edu.cn/git/lineageOS/"
            revision="lineage-18.1"
            sync-j="8" />
 
