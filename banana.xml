@@ -16,7 +16,7 @@
            revision="11" />
 
   <remote  name="lineage"
-           fetch="https://mirrors.bfsu.edu.cn/git/lineageOS/"
+           fetch="https://github.com/LineageOS"
            revision="lineage-18.1"
            sync-j="8" />
 
